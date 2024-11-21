@@ -3,3 +3,4 @@ matplotlib
 torch
 tqdm
 requests
+opencv-python
